@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This software repository collects smart contracts deployable on a blockchain type of infrastructure. It is also a way of providing some of our R&D insights to the public.
+This software repository is a collective of smart contracts which are deployable on blockchain infrastructure. It’s purpose is to provide the public some insight on our R&D work.
 
 ## What are smart contracts
 
@@ -26,4 +26,4 @@ You can find examples of Zilliqa smart contracts in the `./zilliqa-scilla` direc
 
 ## Benefits of Smart Contracts
 
-This technology can be a game changer for automating any kind of trust-based processes and at the same time remove any expensive/slow intermediary.
+This technology can be a game changer for automating any kind of trust-based process and at the same time potentially remove a expensive/slow intermediary.
